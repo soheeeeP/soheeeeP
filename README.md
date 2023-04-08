@@ -12,7 +12,7 @@
 - 🎓 Sogang Univ, Computer Science and Engineering ( 2017.03 ~ 2021.02 )
 
 ## Contributions
-- [Backend.AI #575](https://github.com/lablup/backend.ai/issues/575)
+- [Backend.AI #713](https://github.com/lablup/backend.ai/pull/713)
 - [Backend.AI #721](https://github.com/lablup/backend.ai/pull/721)
 
 ## Tech Stack
