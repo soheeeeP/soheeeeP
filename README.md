@@ -1,19 +1,21 @@
 ## Hi there, I'm Sohee 🤚🏻
 
-- 👀 &nbsp;&nbsp;I'm interested in Web Backend and DevOps
-- 🌱 &nbsp;&nbsp;I have experience contributing to the Open Source Community [Backend.AI](https://github.com/lablup/backend.ai)
-- 🧚🏻‍♀️ &nbsp;&nbsp;I'm passionate about automating repetitive processes and improving efficiency
-- 📚 &nbsp;&nbsp;Here's my [portfolio](https://www.notion.so/soheeee/42cbd7fab9544396b6468c377014ce89)
+- Backend Developer who is passionate about automating repetitive processes and improving efficiency.
+- Problem-solving skills demonstrated through the development of open-source solutions that provide container-based computing clusters on both cloud and on-premise.
 
-## About Me
-- 🪖 Serving military service in ROK Army ( 2021.03 ~ )
-- ☁️ 1st Generation of IBM C:Louders ( 2020.08 ~ 12 )
-- 🦁 Sogang Univ, LikeLion 8th Member ( 2020. 03 ~ 2021. 02 ) 
-- 🎓 Sogang Univ, Computer Science and Engineering ( 2017.03 ~ 2021.02 )
+### Experiences
+- Software Engineer Intern, Daangn Market (2023.06.~)
+- Member, Sogang Likelion 8th (2020.03.~2021.02.) 
+- Software Talent Development Program Student, Hyundai Mobis (2020.08.)
+- Undergraduate Research Student, Bigdata Processing Lab, Sogang Univ. (2020.01.~12.)
 
-## Contributions
-- [Backend.AI #713](https://github.com/lablup/backend.ai/pull/713)
-- [Backend.AI #721](https://github.com/lablup/backend.ai/pull/721)
+### Educations
+- Bachelor of Science in Computer Science & Engineering, Sogang Univ. (2017.03~2021.02)
 
-## Tech Stack
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+### Open Source Contributions
+- Backend.AI [#713](https://github.com/lablup/backend.ai/pull/713) [#721](https://github.com/lablup/backend.ai/pull/721)
+
+### Contacts
+- [Resume(eng)](https://drive.google.com/file/d/1_9ZqEu8sJGSx5BUXJerZfGhuY_zQztzi/view?usp=sharing)
+- [Resume(kor)](https://drive.google.com/file/d/12iInLdftcAE5GmmkhuJtJ4lzDkIejxy_/view?usp=sharing)
+- [Tech Blog](https://soheeeep.github.io/)
